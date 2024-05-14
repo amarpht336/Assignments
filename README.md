@@ -1,2 +1,3 @@
 # Assignments
-All courses assignments are here 
+
+All courses assignments are on different branches
