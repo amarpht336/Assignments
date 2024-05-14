@@ -1,4 +1,3 @@
-package Design_Pattern_Assignments;
 
 public class Singleton {
 
